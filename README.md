@@ -1,2 +1,2 @@
 # LeetCodeAlgorithm
-我的个人LeetCode算法解答
+我的个人LeetCode算法解答以及一些amazing的解答
